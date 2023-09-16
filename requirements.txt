@@ -3,3 +3,5 @@ psycopg2-binary
 pillow
 ipython
 django4-background-tasks
+redis
+python-dotenv
